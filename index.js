@@ -6,7 +6,7 @@ function discre(a,b,c) {
         return 'There is no solution';
     }
     else if(d == 0){
-        return (-b / 2 * a)
+        return `x = (-b / 2 * a)`
     }
     else{
         return `x1 = ${x1}  x2 = ${x2}`;
